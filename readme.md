@@ -4,9 +4,9 @@ Possui duas hierarquias diferentes no codigo, onde apenas as duas superclasses s
 Permite então que todas as subclasses se "conectem".
 ```
 [PaiA] -----------> [PaiB]
-|               	|
+|                   |
 |--Filho1A          |--Fiho1B
-|--Filho2A	        |--Fiho2B
+|--Filho2A          |--Fiho2B
 
 ```
 
